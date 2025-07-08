@@ -21,7 +21,7 @@ This Arduino-based robot is designed to autonomously follow lines and measure **
 - Chassis: Custom-designed in Fusion 360
 
 ## ⚙️ Circuit Diagram
-![Circuit Diagram](circuit_diagram.jpg)
+![Circuit Diagram](circuit connection.jpg)
 
 ## 💻 Arduino Code
 The main code is in `line_following_agri_bot.ino`. It handles:
@@ -35,9 +35,6 @@ The main code is in `line_following_agri_bot.ino`. It handles:
 - Implement real-time data logging via SD card
 - Use PID control for smoother line following
 - Automate complete field coverage for crop health monitoring
-
-## 📷 Images
-Include hardware build photos here if available.
 
 ## 📜 License
 This project is open-source for academic and personal use.
